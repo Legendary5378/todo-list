@@ -1,0 +1,4 @@
+tasks = ["Learn GitHub", "Create 10 repos", "Boost my DEV Score"]
+
+for i, task in enumerate(tasks, 1):
+    print(f"{i}. {task}")
